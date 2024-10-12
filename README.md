@@ -9,6 +9,8 @@ Custom Code Injector Easily inject custom HTML, CSS, or JavaScript code into the
 
 **Developed by CyberDefendX.org (Kazi Asraful Alom Rabbe)**
 
+![Logo](https://raw.githubusercontent.com/bigboss821/customcodeinjector-whmcs/refs/heads/main/customcodeinjector.png)
+
 ## Overview
 
 The **Custom Code Injector** module allows WHMCS administrators to inject custom HTML, CSS, and JavaScript into the header and footer sections of their client area. This module is perfect for adding tracking codes, custom styles, or external scripts without modifying core WHMCS files, ensuring seamless upgrades and security.
@@ -24,6 +26,20 @@ The **Custom Code Injector** module allows WHMCS administrators to inject custom
 
 - **WHMCS Version**: 8.10.1 and higher.
 - **PHP Version**: Ensure the PHP version is compatible with WHMCS system requirements.
+
+## Screenshots
+
+Here are some screenshots of the module in action:
+
+![Screenshot 1](https://github.com/bigboss821/customcodeinjector-whmcs/blob/main/Screenshot_154.png?raw=true)
+
+![Screenshot 2](https://github.com/bigboss821/customcodeinjector-whmcs/blob/main/Screenshot_155.png?raw=true)
+
+## Installation
+
+1. **Download the Module**: Clone this repository or download the ZIP file.
+   ```bash
+   git clone https://github.com/CyberDefendX/custom-code-injector.git
 
 ## Installation
 
