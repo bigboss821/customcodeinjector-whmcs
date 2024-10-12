@@ -9,7 +9,9 @@ Custom Code Injector Easily inject custom HTML, CSS, or JavaScript code into the
 
 **Developed by CyberDefendX.org (Kazi Asraful Alom Rabbe)**
 
-![Logo](https://raw.githubusercontent.com/bigboss821/customcodeinjector-whmcs/refs/heads/main/customcodeinjector.png)
+<p align="center">
+    <img src="https://raw.githubusercontent.com/bigboss821/customcodeinjector-whmcs/refs/heads/main/customcodeinjector.png" alt="Logo" />
+</p>
 
 ## Overview
 
