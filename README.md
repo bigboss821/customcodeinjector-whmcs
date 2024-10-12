@@ -31,3 +31,10 @@ The **Custom Code Injector** module allows WHMCS administrators to inject custom
    ```bash
    git clone [https://github.com/CyberDefendX/custom-code-injector.git](https://github.com/bigboss821/customcodeinjector-whmcs.git)
 
+   <h4> How to Install</h4>
+<ul>
+  <li>Go to Your %WHMCS_PATH%/modules/addons and extract zip on hear "customcodeinjector"</li>
+  <li>Then Go to Admin Panel >> Addon Modules >> Active the "customcodeinjector"</li>
+  <li>Then click on "Configure" and paste the codes and "Save Changes".</li>
+</ul>
+
